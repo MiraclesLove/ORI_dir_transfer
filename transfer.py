@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 import os, shutil, sys
-
+'''
+This program is set to finish a simple and easy but tedious task of rountine work
+Glad to help my colleagues
+'''
 ################################################################################
 # 程序日志记录
 class Logger(object):
